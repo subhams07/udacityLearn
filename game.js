@@ -94,8 +94,8 @@ Sprite = function () {
 
   this.children = {};
 
-  this.color    = 'black';
-  this.solid    = false;
+  this.color    = 'yellow';
+  this.solid    = true;
   this.visible  = false;
   this.reap     = false;
   this.bridgesH = true;
